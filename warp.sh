@@ -96,7 +96,7 @@ WireGuard_Peer_Endpoint_IP6='2606:4700:d0::a29f:c001'
 WireGuard_Peer_Endpoint_IPv4="${WireGuard_Peer_Endpoint_IP4}:2408"
 WireGuard_Peer_Endpoint_IPv6="[${WireGuard_Peer_Endpoint_IP6}]:2408"
 WireGuard_Peer_Endpoint_Domain='engage.cloudflareclient.com:2408'
-WireGuard_Peer_AllowedIPs_IPv4='172.217.0.0/0'
+WireGuard_Peer_AllowedIPs_IPv4='0.0.0.0/0'
 WireGuard_Peer_AllowedIPs_IPv6='::/0'
 WireGuard_Peer_AllowedIPs_DualStack='0.0.0.0/0,::/0'
 
